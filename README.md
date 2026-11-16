@@ -1,5 +1,7 @@
 # CurrencyX – Live Currency Converter & Exchange Analytics Platform
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sreecharan-06/CurrencyX)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-CurrencyX-181717?logo=github&logoColor=white)](https://github.com/sreecharan-06/CurrencyX)
 [![React](https://img.shields.io/badge/React-19.0-61dafb?logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38bdf8?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
