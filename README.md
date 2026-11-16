@@ -1,5 +1,6 @@
 # CurrencyX – Live Currency Converter & Exchange Analytics Platform
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live_Website-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sreecharan-06.github.io/CurrencyX/)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sreecharan-06/CurrencyX)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-CurrencyX-181717?logo=github&logoColor=white)](https://github.com/sreecharan-06/CurrencyX)
 [![React](https://img.shields.io/badge/React-19.0-61dafb?logo=react&logoColor=black)](https://react.dev/)
@@ -7,6 +8,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38bdf8?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Recharts](https://img.shields.io/badge/Recharts-v3.0-22c55e?logo=chartdotjs&logoColor=white)](https://recharts.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**Live Demo URL**: [https://sreecharan-06.github.io/CurrencyX/](https://sreecharan-06.github.io/CurrencyX/)
 
 **CurrencyX** is a modern, high-performance financial exchange dashboard designed for real-time global currency conversions, exchange rate monitoring, and historical time-series analytics. Powered by the open European Central Bank (ECB) data feed via the official [Frankfurter API](https://frankfurter.dev/), CurrencyX provides reliable, reference-grade calculations with zero tracking and full offline client-side caching.
 
