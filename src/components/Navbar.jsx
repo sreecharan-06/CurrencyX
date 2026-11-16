@@ -33,7 +33,7 @@ export const Navbar = ({
 
           <Link to="/" className="flex items-center gap-3 group">
             <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-600 p-0.5 shadow-md shadow-blue-500/20 group-hover:scale-105 transition-transform">
-              <img src="/logo.svg" alt="CurrencyX Logo" className="w-full h-full object-contain" />
+              <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="CurrencyX Logo" className="w-full h-full object-contain" />
             </div>
             <div>
               <div className="flex items-center gap-1.5">
